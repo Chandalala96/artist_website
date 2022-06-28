@@ -1,0 +1,13 @@
+.footer-link{
+	font-size: 30px;
+	color: #ffffff;
+    margin-left: 10px;
+    font-family: 'Water Brush', cursive;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.footer-link :hover{
+	color: red;
+    cursor: pointer;
+}
+   
